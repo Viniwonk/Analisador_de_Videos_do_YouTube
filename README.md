@@ -1,0 +1,1 @@
+# Analisador_de_Videos_do_YouTube
